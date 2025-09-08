@@ -1,0 +1,26 @@
+{
+  "name": "eating-disorder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.2",
+    "@mui/material": "^7.1.2",
+    "aos": "^2.3.4",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "framer-motion": "^12.23.12",
+    "next": "15.3.4",
+    "nodemailer": "^7.0.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sweetalert2": "^11.22.5"
+  }
+}
